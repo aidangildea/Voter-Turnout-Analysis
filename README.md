@@ -1,4 +1,4 @@
-# Voter-Turnout-Analysis
+# What makes someone more likely to vote? Using logistic regression to calculate predicted probabilities for whether someone will vote.
 
 Project for STA 210, Fall 2020
 
